@@ -8,6 +8,10 @@
 
 <br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abtsega123)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
