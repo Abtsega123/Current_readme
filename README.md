@@ -121,7 +121,7 @@
 
 <div align='center'>
 
-## <b>Simplicity is the soul of efficiency</b>
+## <b>💡💡Simplicity is the soul of efficiency</b>💡💡
 
 </div>
 <br>
