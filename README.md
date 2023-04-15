@@ -25,7 +25,7 @@
 
 - A passionate and curious Computer enthuasist
 - Playing CTF's at spare time
-- Currently learning Web Development by Self
+- Currently pursuing Computer Science and Engineering, KIIT.
 - Current Personal website [link](https://abtsega123.github.io/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1B_bDvKsRRz1bRHOujq6qK8owiTKnSl3S/view?usp=sharing)
 
