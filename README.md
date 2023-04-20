@@ -31,7 +31,7 @@
 - Playing CTF's at spare time
 - Currently pursuing Computer Science and Engineering, KIIT.
 - Current Personal website [link](https://abtsega123.github.io/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]https://drive.google.com/file/d/1YUCyzW4_WFdoQPB1PwG1oyiXSRR2ttsK/view?usp=sharing)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume]<a href= "https://drive.google.com/file/d/1YUCyzW4_WFdoQPB1PwG1oyiXSRR2ttsK/view?usp=sharing)">
 
 <br><br>
 
