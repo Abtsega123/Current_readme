@@ -24,7 +24,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-<iframe src="https://giphy.com/embed/QTfX9Ejfra3ZmNxh6B" width="480" height="348" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/tech-code-coding-QTfX9Ejfra3ZmNxh6B">via GIPHY</a></p>
+
 <br>
 
 - A passionate and curious Computer enthuasist
