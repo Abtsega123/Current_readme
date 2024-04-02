@@ -130,6 +130,4 @@
 
 <br>
 
-Credit: [Abtsega Tesfaye](https://github.com/Abtsega123)
 
-Last Edited on: 13/04/2023
