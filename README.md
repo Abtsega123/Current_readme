@@ -28,10 +28,8 @@
 <br>
 
 - A passionate and curious Computer enthuasist
-- Playing CTF's at spare time
 - Currently pursuing Computer Science and Engineering, KIIT.
-- Current Personal website [link](https://abtsega123.github.io/) will be get updated soon😊
-- Open for a collaboration , this is [my resume](https://www.drive.google.com/file/d/1YUCyzW4_WFdoQPB1PwG1oyiXSRR2ttsK/view?usp=sharing)
+
 
 <br><br>
 
